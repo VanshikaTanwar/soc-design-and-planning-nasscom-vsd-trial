@@ -1659,9 +1659,8 @@ run_routing
 
 Screenshots of routing run
 
-![Screenshot from 2024-03-26 14-48-29](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/f166be26-f49a-4001-abee-ce395857990f)
-![Screenshot from 2024-03-26 15-38-39](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/c0c8f372-0293-4fdd-a0a3-691f164e7bed)
-![Screenshot from 2024-03-26 15-29-38](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/70a99289-06ea-4eb8-b3b0-4147395c6f9c)
+![image](https://github.com/user-attachments/assets/1ecf5391-ec76-4c63-b88a-3a4dd3236c75)
+
 
 Commands to load routed def in magic in another terminal
 
@@ -1748,9 +1747,7 @@ Screenshots of commands run and timing report generated
 ![Screenshot from 2024-03-26 23-17-32](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/7d809f14-66b6-4dd6-8161-2ad8371cfaf9)
 ![Screenshot from 2024-03-26 23-17-56](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/64ccb1d8-74aa-42b0-88d4-a0f9588d2ca2)
 
-# Certificate
 
-![Digital-VLSI-SoC-Design-and-Planning-Certificate](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/6f292f50-f95b-471c-8dac-bf0ea7345c9b)
 
 # Acknowledgements
 
